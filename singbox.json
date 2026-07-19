@@ -363,6 +363,236 @@
       }
     },
     {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا 104.19.48.183:2096 [VLESS]",
+      "server": "104.19.48.183",
+      "server_port": 2096,
+      "uuid": "dee16bdc-7fb7-4c80-8e7e-43eb9ce67bad",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-river-vault-670d.malek-hakimi.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-river-vault-670d.malek-hakimi.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا 104.19.48.183:2087 [VLESS]",
+      "server": "104.19.48.183",
+      "server_port": 2087,
+      "uuid": "dee16bdc-7fb7-4c80-8e7e-43eb9ce67bad",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-river-vault-670d.malek-hakimi.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-river-vault-670d.malek-hakimi.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا 104.16.157.220:2083 [VLESS]",
+      "server": "104.16.157.220",
+      "server_port": 2083,
+      "uuid": "dee16bdc-7fb7-4c80-8e7e-43eb9ce67bad",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-river-vault-670d.malek-hakimi.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-river-vault-670d.malek-hakimi.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا 104.16.157.220:2053 [VLESS]",
+      "server": "104.16.157.220",
+      "server_port": 2053,
+      "uuid": "dee16bdc-7fb7-4c80-8e7e-43eb9ce67bad",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-river-vault-670d.malek-hakimi.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-river-vault-670d.malek-hakimi.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا 104.19.48.183:8443 [VLESS]",
+      "server": "104.19.48.183",
+      "server_port": 8443,
+      "uuid": "dee16bdc-7fb7-4c80-8e7e-43eb9ce67bad",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-river-vault-670d.malek-hakimi.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-river-vault-670d.malek-hakimi.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا 104.19.48.183:2083 [VLESS]",
+      "server": "104.19.48.183",
+      "server_port": 2083,
+      "uuid": "dee16bdc-7fb7-4c80-8e7e-43eb9ce67bad",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-river-vault-670d.malek-hakimi.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-river-vault-670d.malek-hakimi.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا 104.19.48.183:2053 [VLESS]",
+      "server": "104.19.48.183",
+      "server_port": 2053,
+      "uuid": "dee16bdc-7fb7-4c80-8e7e-43eb9ce67bad",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-river-vault-670d.malek-hakimi.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-river-vault-670d.malek-hakimi.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا 104.16.157.220:2087 [VLESS]",
+      "server": "104.16.157.220",
+      "server_port": 2087,
+      "uuid": "dee16bdc-7fb7-4c80-8e7e-43eb9ce67bad",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-river-vault-670d.malek-hakimi.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-river-vault-670d.malek-hakimi.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا 104.17.177.145:2083 [VLESS]",
+      "server": "104.17.177.145",
+      "server_port": 2083,
+      "uuid": "dee16bdc-7fb7-4c80-8e7e-43eb9ce67bad",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-river-vault-670d.malek-hakimi.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-river-vault-670d.malek-hakimi.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا 104.17.177.145:2096 [VLESS]",
+      "server": "104.17.177.145",
+      "server_port": 2096,
+      "uuid": "dee16bdc-7fb7-4c80-8e7e-43eb9ce67bad",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-river-vault-670d.malek-hakimi.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-river-vault-670d.malek-hakimi.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
       "type": "selector",
       "tag": "🚀 节点选择",
       "outbounds": [
@@ -382,7 +612,17 @@
         "سرویس رایگان نوا 104.16.217.155:2096 [VLESS]",
         "سرویس رایگان نوا 104.16.217.155:2083 [VLESS]",
         "سرویس رایگان نوا 104.16.217.155:2053 [VLESS]",
-        "سرویس رایگان نوا 104.16.217.155:8443 [VLESS]"
+        "سرویس رایگان نوا 104.16.217.155:8443 [VLESS]",
+        "سرویس رایگان نوا 104.19.48.183:2096 [VLESS]",
+        "سرویس رایگان نوا 104.19.48.183:2087 [VLESS]",
+        "سرویس رایگان نوا 104.16.157.220:2083 [VLESS]",
+        "سرویس رایگان نوا 104.16.157.220:2053 [VLESS]",
+        "سرویس رایگان نوا 104.19.48.183:8443 [VLESS]",
+        "سرویس رایگان نوا 104.19.48.183:2083 [VLESS]",
+        "سرویس رایگان نوا 104.19.48.183:2053 [VLESS]",
+        "سرویس رایگان نوا 104.16.157.220:2087 [VLESS]",
+        "سرویس رایگان نوا 104.17.177.145:2083 [VLESS]",
+        "سرویس رایگان نوا 104.17.177.145:2096 [VLESS]"
       ]
     },
     {
@@ -399,7 +639,17 @@
         "سرویس رایگان نوا 104.16.217.155:2096 [VLESS]",
         "سرویس رایگان نوا 104.16.217.155:2083 [VLESS]",
         "سرویس رایگان نوا 104.16.217.155:2053 [VLESS]",
-        "سرویس رایگان نوا 104.16.217.155:8443 [VLESS]"
+        "سرویس رایگان نوا 104.16.217.155:8443 [VLESS]",
+        "سرویس رایگان نوا 104.19.48.183:2096 [VLESS]",
+        "سرویس رایگان نوا 104.19.48.183:2087 [VLESS]",
+        "سرویس رایگان نوا 104.16.157.220:2083 [VLESS]",
+        "سرویس رایگان نوا 104.16.157.220:2053 [VLESS]",
+        "سرویس رایگان نوا 104.19.48.183:8443 [VLESS]",
+        "سرویس رایگان نوا 104.19.48.183:2083 [VLESS]",
+        "سرویس رایگان نوا 104.19.48.183:2053 [VLESS]",
+        "سرویس رایگان نوا 104.16.157.220:2087 [VLESS]",
+        "سرویس رایگان نوا 104.17.177.145:2083 [VLESS]",
+        "سرویس رایگان نوا 104.17.177.145:2096 [VLESS]"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "5m",
@@ -419,7 +669,17 @@
         "سرویس رایگان نوا 104.16.217.155:2096 [VLESS]",
         "سرویس رایگان نوا 104.16.217.155:2083 [VLESS]",
         "سرویس رایگان نوا 104.16.217.155:2053 [VLESS]",
-        "سرویس رایگان نوا 104.16.217.155:8443 [VLESS]"
+        "سرویس رایگان نوا 104.16.217.155:8443 [VLESS]",
+        "سرویس رایگان نوا 104.19.48.183:2096 [VLESS]",
+        "سرویس رایگان نوا 104.19.48.183:2087 [VLESS]",
+        "سرویس رایگان نوا 104.16.157.220:2083 [VLESS]",
+        "سرویس رایگان نوا 104.16.157.220:2053 [VLESS]",
+        "سرویس رایگان نوا 104.19.48.183:8443 [VLESS]",
+        "سرویس رایگان نوا 104.19.48.183:2083 [VLESS]",
+        "سرویس رایگان نوا 104.19.48.183:2053 [VLESS]",
+        "سرویس رایگان نوا 104.16.157.220:2087 [VLESS]",
+        "سرویس رایگان نوا 104.17.177.145:2083 [VLESS]",
+        "سرویس رایگان نوا 104.17.177.145:2096 [VLESS]"
       ]
     },
     {
@@ -436,7 +696,17 @@
         "سرویس رایگان نوا 104.16.217.155:2096 [VLESS]",
         "سرویس رایگان نوا 104.16.217.155:2083 [VLESS]",
         "سرویس رایگان نوا 104.16.217.155:2053 [VLESS]",
-        "سرویس رایگان نوا 104.16.217.155:8443 [VLESS]"
+        "سرویس رایگان نوا 104.16.217.155:8443 [VLESS]",
+        "سرویس رایگان نوا 104.19.48.183:2096 [VLESS]",
+        "سرویس رایگان نوا 104.19.48.183:2087 [VLESS]",
+        "سرویس رایگان نوا 104.16.157.220:2083 [VLESS]",
+        "سرویس رایگان نوا 104.16.157.220:2053 [VLESS]",
+        "سرویس رایگان نوا 104.19.48.183:8443 [VLESS]",
+        "سرویس رایگان نوا 104.19.48.183:2083 [VLESS]",
+        "سرویس رایگان نوا 104.19.48.183:2053 [VLESS]",
+        "سرویس رایگان نوا 104.16.157.220:2087 [VLESS]",
+        "سرویس رایگان نوا 104.17.177.145:2083 [VLESS]",
+        "سرویس رایگان نوا 104.17.177.145:2096 [VLESS]"
       ]
     },
     {
@@ -481,7 +751,17 @@
         "سرویس رایگان نوا 104.16.217.155:2096 [VLESS]",
         "سرویس رایگان نوا 104.16.217.155:2083 [VLESS]",
         "سرویس رایگان نوا 104.16.217.155:2053 [VLESS]",
-        "سرویس رایگان نوا 104.16.217.155:8443 [VLESS]"
+        "سرویس رایگان نوا 104.16.217.155:8443 [VLESS]",
+        "سرویس رایگان نوا 104.19.48.183:2096 [VLESS]",
+        "سرویس رایگان نوا 104.19.48.183:2087 [VLESS]",
+        "سرویس رایگان نوا 104.16.157.220:2083 [VLESS]",
+        "سرویس رایگان نوا 104.16.157.220:2053 [VLESS]",
+        "سرویس رایگان نوا 104.19.48.183:8443 [VLESS]",
+        "سرویس رایگان نوا 104.19.48.183:2083 [VLESS]",
+        "سرویس رایگان نوا 104.19.48.183:2053 [VLESS]",
+        "سرویس رایگان نوا 104.16.157.220:2087 [VLESS]",
+        "سرویس رایگان نوا 104.17.177.145:2083 [VLESS]",
+        "سرویس رایگان نوا 104.17.177.145:2096 [VLESS]"
       ]
     },
     {
@@ -506,7 +786,17 @@
         "سرویس رایگان نوا 104.16.217.155:2096 [VLESS]",
         "سرویس رایگان نوا 104.16.217.155:2083 [VLESS]",
         "سرویس رایگان نوا 104.16.217.155:2053 [VLESS]",
-        "سرویس رایگان نوا 104.16.217.155:8443 [VLESS]"
+        "سرویس رایگان نوا 104.16.217.155:8443 [VLESS]",
+        "سرویس رایگان نوا 104.19.48.183:2096 [VLESS]",
+        "سرویس رایگان نوا 104.19.48.183:2087 [VLESS]",
+        "سرویس رایگان نوا 104.16.157.220:2083 [VLESS]",
+        "سرویس رایگان نوا 104.16.157.220:2053 [VLESS]",
+        "سرویس رایگان نوا 104.19.48.183:8443 [VLESS]",
+        "سرویس رایگان نوا 104.19.48.183:2083 [VLESS]",
+        "سرویس رایگان نوا 104.19.48.183:2053 [VLESS]",
+        "سرویس رایگان نوا 104.16.157.220:2087 [VLESS]",
+        "سرویس رایگان نوا 104.17.177.145:2083 [VLESS]",
+        "سرویس رایگان نوا 104.17.177.145:2096 [VLESS]"
       ]
     },
     {
@@ -526,7 +816,17 @@
         "سرویس رایگان نوا 104.16.217.155:2096 [VLESS]",
         "سرویس رایگان نوا 104.16.217.155:2083 [VLESS]",
         "سرویس رایگان نوا 104.16.217.155:2053 [VLESS]",
-        "سرویس رایگان نوا 104.16.217.155:8443 [VLESS]"
+        "سرویس رایگان نوا 104.16.217.155:8443 [VLESS]",
+        "سرویس رایگان نوا 104.19.48.183:2096 [VLESS]",
+        "سرویس رایگان نوا 104.19.48.183:2087 [VLESS]",
+        "سرویس رایگان نوا 104.16.157.220:2083 [VLESS]",
+        "سرویس رایگان نوا 104.16.157.220:2053 [VLESS]",
+        "سرویس رایگان نوا 104.19.48.183:8443 [VLESS]",
+        "سرویس رایگان نوا 104.19.48.183:2083 [VLESS]",
+        "سرویس رایگان نوا 104.19.48.183:2053 [VLESS]",
+        "سرویس رایگان نوا 104.16.157.220:2087 [VLESS]",
+        "سرویس رایگان نوا 104.17.177.145:2083 [VLESS]",
+        "سرویس رایگان نوا 104.17.177.145:2096 [VLESS]"
       ]
     },
     {
