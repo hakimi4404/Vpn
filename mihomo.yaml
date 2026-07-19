@@ -64,6 +64,11 @@ proxies:
   - {name: "سرویس رایگان نوا 104.16.157.220:2087 [VLESS]", server: 104.16.157.220, port: 2087, type: vless, uuid: dee16bdc-7fb7-4c80-8e7e-43eb9ce67bad, tls: true, skip-cert-verify: false, servername: nova-river-vault-670d.malek-hakimi.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nova-river-vault-670d.malek-hakimi.workers.dev}}}
   - {name: "سرویس رایگان نوا 104.17.177.145:2083 [VLESS]", server: 104.17.177.145, port: 2083, type: vless, uuid: dee16bdc-7fb7-4c80-8e7e-43eb9ce67bad, tls: true, skip-cert-verify: false, servername: nova-river-vault-670d.malek-hakimi.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nova-river-vault-670d.malek-hakimi.workers.dev}}}
   - {name: "سرویس رایگان نوا 104.17.177.145:2096 [VLESS]", server: 104.17.177.145, port: 2096, type: vless, uuid: dee16bdc-7fb7-4c80-8e7e-43eb9ce67bad, tls: true, skip-cert-verify: false, servername: nova-river-vault-670d.malek-hakimi.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nova-river-vault-670d.malek-hakimi.workers.dev}}}
+  - {name: "سرویس رایگان نوا 104.17.16.212:443 [VLESS]", server: 104.17.16.212, port: 443, type: vless, uuid: dee16bdc-7fb7-4c80-8e7e-43eb9ce67bad, tls: true, skip-cert-verify: false, servername: nova-river-vault-670d.malek-hakimi.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nova-river-vault-670d.malek-hakimi.workers.dev}}}
+  - {name: "سرویس رایگان نوا 172.67.86.8:443 [VLESS]", server: 172.67.86.8, port: 443, type: vless, uuid: dee16bdc-7fb7-4c80-8e7e-43eb9ce67bad, tls: true, skip-cert-verify: false, servername: nova-river-vault-670d.malek-hakimi.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nova-river-vault-670d.malek-hakimi.workers.dev}}}
+  - {name: "سرویس رایگان نوا 104.24.179.13:443 [VLESS]", server: 104.24.179.13, port: 443, type: vless, uuid: dee16bdc-7fb7-4c80-8e7e-43eb9ce67bad, tls: true, skip-cert-verify: false, servername: nova-river-vault-670d.malek-hakimi.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nova-river-vault-670d.malek-hakimi.workers.dev}}}
+  - {name: "سرویس رایگان نوا 104.24.76.236:443 [VLESS]", server: 104.24.76.236, port: 443, type: vless, uuid: dee16bdc-7fb7-4c80-8e7e-43eb9ce67bad, tls: true, skip-cert-verify: false, servername: nova-river-vault-670d.malek-hakimi.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nova-river-vault-670d.malek-hakimi.workers.dev}}}
+  - {name: "سرویس رایگان نوا 162.159.199.145:443 [VLESS]", server: 162.159.199.145, port: 443, type: vless, uuid: dee16bdc-7fb7-4c80-8e7e-43eb9ce67bad, tls: true, skip-cert-verify: false, servername: nova-river-vault-670d.malek-hakimi.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nova-river-vault-670d.malek-hakimi.workers.dev}}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -95,6 +100,11 @@ proxy-groups:
       - سرویس رایگان نوا 104.16.157.220:2087 [VLESS]
       - سرویس رایگان نوا 104.17.177.145:2083 [VLESS]
       - سرویس رایگان نوا 104.17.177.145:2096 [VLESS]
+      - سرویس رایگان نوا 104.17.16.212:443 [VLESS]
+      - سرویس رایگان نوا 172.67.86.8:443 [VLESS]
+      - سرویس رایگان نوا 104.24.179.13:443 [VLESS]
+      - سرویس رایگان نوا 104.24.76.236:443 [VLESS]
+      - سرویس رایگان نوا 162.159.199.145:443 [VLESS]
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -122,6 +132,11 @@ proxy-groups:
       - سرویس رایگان نوا 104.16.157.220:2087 [VLESS]
       - سرویس رایگان نوا 104.17.177.145:2083 [VLESS]
       - سرویس رایگان نوا 104.17.177.145:2096 [VLESS]
+      - سرویس رایگان نوا 104.17.16.212:443 [VLESS]
+      - سرویس رایگان نوا 172.67.86.8:443 [VLESS]
+      - سرویس رایگان نوا 104.24.179.13:443 [VLESS]
+      - سرویس رایگان نوا 104.24.76.236:443 [VLESS]
+      - سرویس رایگان نوا 162.159.199.145:443 [VLESS]
   - name: 🔯 故障转移
     type: fallback
     url: http://www.gstatic.com/generate_204
@@ -148,6 +163,11 @@ proxy-groups:
       - سرویس رایگان نوا 104.16.157.220:2087 [VLESS]
       - سرویس رایگان نوا 104.17.177.145:2083 [VLESS]
       - سرویس رایگان نوا 104.17.177.145:2096 [VLESS]
+      - سرویس رایگان نوا 104.17.16.212:443 [VLESS]
+      - سرویس رایگان نوا 172.67.86.8:443 [VLESS]
+      - سرویس رایگان نوا 104.24.179.13:443 [VLESS]
+      - سرویس رایگان نوا 104.24.76.236:443 [VLESS]
+      - سرویس رایگان نوا 162.159.199.145:443 [VLESS]
   - name: 🔮 负载均衡
     type: load-balance
     strategy: consistent-hashing
@@ -175,6 +195,11 @@ proxy-groups:
       - سرویس رایگان نوا 104.16.157.220:2087 [VLESS]
       - سرویس رایگان نوا 104.17.177.145:2083 [VLESS]
       - سرویس رایگان نوا 104.17.177.145:2096 [VLESS]
+      - سرویس رایگان نوا 104.17.16.212:443 [VLESS]
+      - سرویس رایگان نوا 172.67.86.8:443 [VLESS]
+      - سرویس رایگان نوا 104.24.179.13:443 [VLESS]
+      - سرویس رایگان نوا 104.24.76.236:443 [VLESS]
+      - سرویس رایگان نوا 162.159.199.145:443 [VLESS]
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -221,6 +246,11 @@ proxy-groups:
       - سرویس رایگان نوا 104.16.157.220:2087 [VLESS]
       - سرویس رایگان نوا 104.17.177.145:2083 [VLESS]
       - سرویس رایگان نوا 104.17.177.145:2096 [VLESS]
+      - سرویس رایگان نوا 104.17.16.212:443 [VLESS]
+      - سرویس رایگان نوا 172.67.86.8:443 [VLESS]
+      - سرویس رایگان نوا 104.24.179.13:443 [VLESS]
+      - سرویس رایگان نوا 104.24.76.236:443 [VLESS]
+      - سرویس رایگان نوا 162.159.199.145:443 [VLESS]
   - name: ☁️ CloudFlareCDN
     type: select
     proxies:
@@ -253,6 +283,11 @@ proxy-groups:
       - سرویس رایگان نوا 104.16.157.220:2087 [VLESS]
       - سرویس رایگان نوا 104.17.177.145:2083 [VLESS]
       - سرویس رایگان نوا 104.17.177.145:2096 [VLESS]
+      - سرویس رایگان نوا 104.17.16.212:443 [VLESS]
+      - سرویس رایگان نوا 172.67.86.8:443 [VLESS]
+      - سرویس رایگان نوا 104.24.179.13:443 [VLESS]
+      - سرویس رایگان نوا 104.24.76.236:443 [VLESS]
+      - سرویس رایگان نوا 162.159.199.145:443 [VLESS]
 rules:
 # PHISHING BLOCK RULES
   - GEOSITE,category-phishing,REJECT
