@@ -54,6 +54,16 @@ proxies:
   - {name: "سرویس رایگان نوا 104.16.217.155:2083 [VLESS]", server: 104.16.217.155, port: 2083, type: vless, uuid: dee16bdc-7fb7-4c80-8e7e-43eb9ce67bad, tls: true, skip-cert-verify: false, servername: nova-river-vault-670d.malek-hakimi.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nova-river-vault-670d.malek-hakimi.workers.dev}}}
   - {name: "سرویس رایگان نوا 104.16.217.155:2053 [VLESS]", server: 104.16.217.155, port: 2053, type: vless, uuid: dee16bdc-7fb7-4c80-8e7e-43eb9ce67bad, tls: true, skip-cert-verify: false, servername: nova-river-vault-670d.malek-hakimi.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nova-river-vault-670d.malek-hakimi.workers.dev}}}
   - {name: "سرویس رایگان نوا 104.16.217.155:8443 [VLESS]", server: 104.16.217.155, port: 8443, type: vless, uuid: dee16bdc-7fb7-4c80-8e7e-43eb9ce67bad, tls: true, skip-cert-verify: false, servername: nova-river-vault-670d.malek-hakimi.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nova-river-vault-670d.malek-hakimi.workers.dev}}}
+  - {name: "سرویس رایگان نوا 104.19.48.183:2096 [VLESS]", server: 104.19.48.183, port: 2096, type: vless, uuid: dee16bdc-7fb7-4c80-8e7e-43eb9ce67bad, tls: true, skip-cert-verify: false, servername: nova-river-vault-670d.malek-hakimi.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nova-river-vault-670d.malek-hakimi.workers.dev}}}
+  - {name: "سرویس رایگان نوا 104.19.48.183:2087 [VLESS]", server: 104.19.48.183, port: 2087, type: vless, uuid: dee16bdc-7fb7-4c80-8e7e-43eb9ce67bad, tls: true, skip-cert-verify: false, servername: nova-river-vault-670d.malek-hakimi.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nova-river-vault-670d.malek-hakimi.workers.dev}}}
+  - {name: "سرویس رایگان نوا 104.16.157.220:2083 [VLESS]", server: 104.16.157.220, port: 2083, type: vless, uuid: dee16bdc-7fb7-4c80-8e7e-43eb9ce67bad, tls: true, skip-cert-verify: false, servername: nova-river-vault-670d.malek-hakimi.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nova-river-vault-670d.malek-hakimi.workers.dev}}}
+  - {name: "سرویس رایگان نوا 104.16.157.220:2053 [VLESS]", server: 104.16.157.220, port: 2053, type: vless, uuid: dee16bdc-7fb7-4c80-8e7e-43eb9ce67bad, tls: true, skip-cert-verify: false, servername: nova-river-vault-670d.malek-hakimi.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nova-river-vault-670d.malek-hakimi.workers.dev}}}
+  - {name: "سرویس رایگان نوا 104.19.48.183:8443 [VLESS]", server: 104.19.48.183, port: 8443, type: vless, uuid: dee16bdc-7fb7-4c80-8e7e-43eb9ce67bad, tls: true, skip-cert-verify: false, servername: nova-river-vault-670d.malek-hakimi.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nova-river-vault-670d.malek-hakimi.workers.dev}}}
+  - {name: "سرویس رایگان نوا 104.19.48.183:2083 [VLESS]", server: 104.19.48.183, port: 2083, type: vless, uuid: dee16bdc-7fb7-4c80-8e7e-43eb9ce67bad, tls: true, skip-cert-verify: false, servername: nova-river-vault-670d.malek-hakimi.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nova-river-vault-670d.malek-hakimi.workers.dev}}}
+  - {name: "سرویس رایگان نوا 104.19.48.183:2053 [VLESS]", server: 104.19.48.183, port: 2053, type: vless, uuid: dee16bdc-7fb7-4c80-8e7e-43eb9ce67bad, tls: true, skip-cert-verify: false, servername: nova-river-vault-670d.malek-hakimi.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nova-river-vault-670d.malek-hakimi.workers.dev}}}
+  - {name: "سرویس رایگان نوا 104.16.157.220:2087 [VLESS]", server: 104.16.157.220, port: 2087, type: vless, uuid: dee16bdc-7fb7-4c80-8e7e-43eb9ce67bad, tls: true, skip-cert-verify: false, servername: nova-river-vault-670d.malek-hakimi.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nova-river-vault-670d.malek-hakimi.workers.dev}}}
+  - {name: "سرویس رایگان نوا 104.17.177.145:2083 [VLESS]", server: 104.17.177.145, port: 2083, type: vless, uuid: dee16bdc-7fb7-4c80-8e7e-43eb9ce67bad, tls: true, skip-cert-verify: false, servername: nova-river-vault-670d.malek-hakimi.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nova-river-vault-670d.malek-hakimi.workers.dev}}}
+  - {name: "سرویس رایگان نوا 104.17.177.145:2096 [VLESS]", server: 104.17.177.145, port: 2096, type: vless, uuid: dee16bdc-7fb7-4c80-8e7e-43eb9ce67bad, tls: true, skip-cert-verify: false, servername: nova-river-vault-670d.malek-hakimi.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nova-river-vault-670d.malek-hakimi.workers.dev}}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -75,6 +85,16 @@ proxy-groups:
       - سرویس رایگان نوا 104.16.217.155:2083 [VLESS]
       - سرویس رایگان نوا 104.16.217.155:2053 [VLESS]
       - سرویس رایگان نوا 104.16.217.155:8443 [VLESS]
+      - سرویس رایگان نوا 104.19.48.183:2096 [VLESS]
+      - سرویس رایگان نوا 104.19.48.183:2087 [VLESS]
+      - سرویس رایگان نوا 104.16.157.220:2083 [VLESS]
+      - سرویس رایگان نوا 104.16.157.220:2053 [VLESS]
+      - سرویس رایگان نوا 104.19.48.183:8443 [VLESS]
+      - سرویس رایگان نوا 104.19.48.183:2083 [VLESS]
+      - سرویس رایگان نوا 104.19.48.183:2053 [VLESS]
+      - سرویس رایگان نوا 104.16.157.220:2087 [VLESS]
+      - سرویس رایگان نوا 104.17.177.145:2083 [VLESS]
+      - سرویس رایگان نوا 104.17.177.145:2096 [VLESS]
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -92,6 +112,16 @@ proxy-groups:
       - سرویس رایگان نوا 104.16.217.155:2083 [VLESS]
       - سرویس رایگان نوا 104.16.217.155:2053 [VLESS]
       - سرویس رایگان نوا 104.16.217.155:8443 [VLESS]
+      - سرویس رایگان نوا 104.19.48.183:2096 [VLESS]
+      - سرویس رایگان نوا 104.19.48.183:2087 [VLESS]
+      - سرویس رایگان نوا 104.16.157.220:2083 [VLESS]
+      - سرویس رایگان نوا 104.16.157.220:2053 [VLESS]
+      - سرویس رایگان نوا 104.19.48.183:8443 [VLESS]
+      - سرویس رایگان نوا 104.19.48.183:2083 [VLESS]
+      - سرویس رایگان نوا 104.19.48.183:2053 [VLESS]
+      - سرویس رایگان نوا 104.16.157.220:2087 [VLESS]
+      - سرویس رایگان نوا 104.17.177.145:2083 [VLESS]
+      - سرویس رایگان نوا 104.17.177.145:2096 [VLESS]
   - name: 🔯 故障转移
     type: fallback
     url: http://www.gstatic.com/generate_204
@@ -108,6 +138,16 @@ proxy-groups:
       - سرویس رایگان نوا 104.16.217.155:2083 [VLESS]
       - سرویس رایگان نوا 104.16.217.155:2053 [VLESS]
       - سرویس رایگان نوا 104.16.217.155:8443 [VLESS]
+      - سرویس رایگان نوا 104.19.48.183:2096 [VLESS]
+      - سرویس رایگان نوا 104.19.48.183:2087 [VLESS]
+      - سرویس رایگان نوا 104.16.157.220:2083 [VLESS]
+      - سرویس رایگان نوا 104.16.157.220:2053 [VLESS]
+      - سرویس رایگان نوا 104.19.48.183:8443 [VLESS]
+      - سرویس رایگان نوا 104.19.48.183:2083 [VLESS]
+      - سرویس رایگان نوا 104.19.48.183:2053 [VLESS]
+      - سرویس رایگان نوا 104.16.157.220:2087 [VLESS]
+      - سرویس رایگان نوا 104.17.177.145:2083 [VLESS]
+      - سرویس رایگان نوا 104.17.177.145:2096 [VLESS]
   - name: 🔮 负载均衡
     type: load-balance
     strategy: consistent-hashing
@@ -125,6 +165,16 @@ proxy-groups:
       - سرویس رایگان نوا 104.16.217.155:2083 [VLESS]
       - سرویس رایگان نوا 104.16.217.155:2053 [VLESS]
       - سرویس رایگان نوا 104.16.217.155:8443 [VLESS]
+      - سرویس رایگان نوا 104.19.48.183:2096 [VLESS]
+      - سرویس رایگان نوا 104.19.48.183:2087 [VLESS]
+      - سرویس رایگان نوا 104.16.157.220:2083 [VLESS]
+      - سرویس رایگان نوا 104.16.157.220:2053 [VLESS]
+      - سرویس رایگان نوا 104.19.48.183:8443 [VLESS]
+      - سرویس رایگان نوا 104.19.48.183:2083 [VLESS]
+      - سرویس رایگان نوا 104.19.48.183:2053 [VLESS]
+      - سرویس رایگان نوا 104.16.157.220:2087 [VLESS]
+      - سرویس رایگان نوا 104.17.177.145:2083 [VLESS]
+      - سرویس رایگان نوا 104.17.177.145:2096 [VLESS]
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -161,6 +211,16 @@ proxy-groups:
       - سرویس رایگان نوا 104.16.217.155:2083 [VLESS]
       - سرویس رایگان نوا 104.16.217.155:2053 [VLESS]
       - سرویس رایگان نوا 104.16.217.155:8443 [VLESS]
+      - سرویس رایگان نوا 104.19.48.183:2096 [VLESS]
+      - سرویس رایگان نوا 104.19.48.183:2087 [VLESS]
+      - سرویس رایگان نوا 104.16.157.220:2083 [VLESS]
+      - سرویس رایگان نوا 104.16.157.220:2053 [VLESS]
+      - سرویس رایگان نوا 104.19.48.183:8443 [VLESS]
+      - سرویس رایگان نوا 104.19.48.183:2083 [VLESS]
+      - سرویس رایگان نوا 104.19.48.183:2053 [VLESS]
+      - سرویس رایگان نوا 104.16.157.220:2087 [VLESS]
+      - سرویس رایگان نوا 104.17.177.145:2083 [VLESS]
+      - سرویس رایگان نوا 104.17.177.145:2096 [VLESS]
   - name: ☁️ CloudFlareCDN
     type: select
     proxies:
@@ -183,6 +243,16 @@ proxy-groups:
       - سرویس رایگان نوا 104.16.217.155:2083 [VLESS]
       - سرویس رایگان نوا 104.16.217.155:2053 [VLESS]
       - سرویس رایگان نوا 104.16.217.155:8443 [VLESS]
+      - سرویس رایگان نوا 104.19.48.183:2096 [VLESS]
+      - سرویس رایگان نوا 104.19.48.183:2087 [VLESS]
+      - سرویس رایگان نوا 104.16.157.220:2083 [VLESS]
+      - سرویس رایگان نوا 104.16.157.220:2053 [VLESS]
+      - سرویس رایگان نوا 104.19.48.183:8443 [VLESS]
+      - سرویس رایگان نوا 104.19.48.183:2083 [VLESS]
+      - سرویس رایگان نوا 104.19.48.183:2053 [VLESS]
+      - سرویس رایگان نوا 104.16.157.220:2087 [VLESS]
+      - سرویس رایگان نوا 104.17.177.145:2083 [VLESS]
+      - سرویس رایگان نوا 104.17.177.145:2096 [VLESS]
 rules:
 # PHISHING BLOCK RULES
   - GEOSITE,category-phishing,REJECT
